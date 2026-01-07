@@ -2,3 +2,5 @@ console.log("hello boygit");
 console.log("new branch added");
 console.log("im finishing :)");
 console.log("im new branch");
+
+let number = 0; // new branch
